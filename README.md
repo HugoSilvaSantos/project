@@ -1,2 +1,2 @@
 # project
-Test webapp
+Test webapp using Yeoman
