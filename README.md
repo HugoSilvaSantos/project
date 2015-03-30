@@ -1,7 +1,7 @@
 # project
 ###Test webapp using Yeoman and MEAN stack(MongoDB, Express, Angular, Node.js)
 
-### To build this Webapp it’s needed:
+### Requirements
 **Node.js**,
 **npm**,
 **git** and
@@ -9,13 +9,13 @@
 
 ### To Buil the Webapp
 
-1. ** $ ./install.sh** to install all dependencies
+1. **$ ./install.sh** to install all dependencies
 
 2. **$ grunt serve**
 
 3. Consume the REST API with a client, ex. POSTMAN
 
-4. Available endpoints:
+4. Available endpoints
 
 
 | Routes      						| Verb   | Action 							  | Example                                                  |
