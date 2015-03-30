@@ -6,7 +6,7 @@ var mongoose = require('mongoose'),
 var ThingSchema = new Schema({
   orderId: String,
   companyName: String,
-  costumerAdress: String,
+  costumerAddress: String,
   orderedItem: String,
   active: Boolean
 });
