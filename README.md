@@ -1,5 +1,5 @@
 # project
-###Test webapp using Yeoman and MEAN stack(MongoDB, Express, Angular, Node.js)
+###Test webapp using Yeoman and MEAN stack (MongoDB, Express, Angular, Node.js)
 
 ### Requirements
 **Node.js**,
