@@ -7,7 +7,7 @@
 **git** and
 **MongoDB**
 
-### To Buil the Webapp
+### To Build the Webapp
 
 1. **$ ./install.sh** to install all dependencies
 
